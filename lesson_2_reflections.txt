@@ -1,0 +1,10 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: git creates a directory .git which stores data relates to our repo.
+We need to that in order to prepare our directory to become a repo.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: Staging area is an intermidiate state it is like ready for luanching. 
+It gives a better control over commiting whole directory.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: By comparing staged files with latest commit and files in working directory. 
