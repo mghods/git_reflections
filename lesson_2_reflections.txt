@@ -7,4 +7,8 @@ A: Staging area is an intermidiate state it is like ready for luanching.
 It gives a better control over commiting whole directory.
 
 Q: How can you use the staging area to make sure you have one commit per logical change?
-A: By comparing staged files with latest commit and files in working directory. 
+A: By comparing staged files with latest commit and files in working directory.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: When adding an experimental feature.
+Branches will help us having a fully working version while working on changes.
