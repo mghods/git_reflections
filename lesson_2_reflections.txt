@@ -12,3 +12,6 @@ A: By comparing staged files with latest commit and files in working directory.
 Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: When adding an experimental feature.
 Branches will help us having a fully working version while working on changes.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: It helps us to figure out what we have done so far and where we are.
