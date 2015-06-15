@@ -15,3 +15,7 @@ Branches will help us having a fully working version while working on changes.
 
 Q: How do the diagrams help you visualize the branch structure?
 A: It helps us to figure out what we have done so far and where we are.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: We have combined all our changes toghether to get a comibined version.
+Because we are combining them.
