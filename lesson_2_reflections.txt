@@ -19,3 +19,7 @@ A: It helps us to figure out what we have done so far and where we are.
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A: We have combined all our changes toghether to get a comibined version.
 Because we are combining them.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: Automatic merge when it is clear for machine save human time and effort.
+When merging process is ambigious for machine it is safe to have human to supervise the merge.
