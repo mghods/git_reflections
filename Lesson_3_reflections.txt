@@ -13,3 +13,6 @@ branch is the option.
 
 Q:What is the benefit of having a copy of the last known state of the remote stored locally?
 A: You can access last known state if you are online and try to modify things without messing up something good.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: I could just keep logs of what should be changed and send it to a supervisor; however, it would cumbersome and messy.
