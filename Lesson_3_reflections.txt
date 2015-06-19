@@ -16,3 +16,8 @@ A: You can access last known state if you are online and try to modify things wi
 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: I could just keep logs of what should be changed and send it to a supervisor; however, it would cumbersome and messy.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: When you are adding or fixing your existing documents.
+It keeps a running version safe.
+But, it complicates the process.
